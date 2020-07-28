@@ -14,5 +14,4 @@ Detection of mask on images and live web cam video
 # images and video
 ![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output2.PNG?raw=true)![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output2.PNG?raw=true) 
 ![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output3.PNG?raw=true)![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output3.PNG?raw=true) 
-![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/video.mp4?raw=true)![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/video.mp4?raw=true) 
 
