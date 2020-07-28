@@ -12,6 +12,5 @@ Detection of mask on images and live web cam video
 
 # Run mask_detection_video.py file to start live detection of mask on your face
 # images and video
-![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output2.PNG?raw=true)![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output2.PNG?raw=true) 
-![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output3.PNG?raw=true)![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output3.PNG?raw=true) 
-
+![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output2.PNG?raw=true)  
+![alt text](https://github.com/nitintyagi-ai/mask_detection_livewebcam_video/blob/master/output/output3.PNG?raw=true)  
