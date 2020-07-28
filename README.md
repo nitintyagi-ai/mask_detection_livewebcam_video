@@ -1,4 +1,4 @@
-# mask_detection_livewebcam_video
+# Face mask detection on live webcam video and images
 Detection of mask on images and live web cam video
 
 --> Install requirement.txt for dependencies (Go to requirement.txt drive and run pip install - r requirement.txt)  
